@@ -1,4 +1,5 @@
 baseURL = "smasetty.github.io"
+DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Sharat Masetty"
 theme = "beautifulhugo"
@@ -15,6 +16,13 @@ publishdir = "smasetty.github.io"
     homeTitle = "Personal blog"
     subTitle = "Everything under the sun :-) | Unlearn-Relearn-Repeat"
     comments = true
+    mainSections = ["post","posts"]
+    logo = "img/avatar-icon.png" # Expecting square dimensions
+    favicon = "img/favicon.ico"
+    dateFormat = "January 2, 2006"
+    readingTime = true
+    wordCount = true
+    showRelatedPosts = true
 
 [[menu.main]]
     name = "Blog"
