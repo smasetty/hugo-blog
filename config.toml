@@ -12,7 +12,7 @@ publishdir = "smasetty.github.io"
     twitter = "smasetty"
     github = "smasetty"
 
-[params]
+[Params]
     homeTitle = "Personal blog"
     subTitle = "Everything under the sun :-) | Unlearn-Relearn-Repeat"
     comments = true

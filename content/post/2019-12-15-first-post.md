@@ -1,6 +1,6 @@
 ---
-title: First post!
+title: Second post!
 date: 2019-12-15
 ---
 
-This is my first post!!
+This is my Second post!!
