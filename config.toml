@@ -1,9 +1,10 @@
-baseURL = "smasetty.github.io"
+#baseURL = "smasetty.github.io"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Sharat Masetty"
 theme = "beautifulhugo"
 copyright = ""
+canonifyurls = true
 publishdir = "smasetty.github.io"
 
 [Author]
@@ -23,6 +24,12 @@ publishdir = "smasetty.github.io"
     readingTime = true
     wordCount = true
     showRelatedPosts = true
+
+[taxonomies]
+    tag = "tags"
+
+[permalinks]
+    post = "/:year/:month/:slug/"
 
 [[menu.main]]
     name = "Blog"
