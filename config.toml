@@ -12,6 +12,7 @@ publishdir = "smasetty.github.io"
     email = "sharat_masetty@yahoo.com"
     twitter = "smasetty"
     github = "smasetty"
+    linkedin = "smasetty"
 
 [Params]
     homeTitle = "Personal blog"
