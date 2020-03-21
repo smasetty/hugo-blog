@@ -18,7 +18,7 @@ publishdir = "smasetty.github.io"
     subTitle = "Everything under the sun :-) | Unlearn-Relearn-Repeat"
     comments = true
     mainSections = ["post","posts"]
-    logo = "img/avatar-icon.png" # Expecting square dimensions
+    logo = "img/sharat-2.jpg" # Expecting square dimensions
     favicon = "img/favicon.ico"
     dateFormat = "January 2, 2006"
     readingTime = true
@@ -39,6 +39,11 @@ publishdir = "smasetty.github.io"
 [[menu.main]]
     name = "About"
     url = "page/about/"
+    weight = 2
+
+[[menu.main]]
+    name = "Projects"
+    url = "page/projects"
     weight = 3
 
 [[menu.main]]
