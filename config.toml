@@ -1,4 +1,4 @@
-#baseURL = "smasetty.github.io"
+baseURL = "https://smasetty.github.io"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "Sharat Masetty"
