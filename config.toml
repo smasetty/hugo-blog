@@ -6,6 +6,8 @@ theme = "beautifulhugo"
 copyright = ""
 canonifyurls = true
 publishdir = "smasetty.github.io"
+pygmentsUseClasses = true
+pygmentCodeFences = true
 
 [Author]
     name = "Sharat Masetty"
